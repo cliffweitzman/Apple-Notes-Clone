@@ -2,7 +2,7 @@
 //  DisplayNoteViewController.swift
 //  MakeSchoolNotes
 //
-//  Created by Chris Orcutt on 1/10/16.
+//  Created by Cliff Weitzman on 6/15/16.
 //  Copyright © 2016 MakeSchool. All rights reserved.
 //
 

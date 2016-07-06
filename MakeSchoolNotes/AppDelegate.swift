@@ -2,7 +2,7 @@
 //  AppDelegate.swift
 //  MakeSchoolNotes
 //
-//  Created by Chris Orcutt on 1/10/16.
+//  Created by Cliff Weitzman on 6/15/16.
 //  Copyright © 2016 MakeSchool. All rights reserved.
 //
 
@@ -16,9 +16,6 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
 
   func application(application: UIApplication, didFinishLaunchingWithOptions launchOptions: [NSObject: AnyObject]?) -> Bool {
     // Override point for customization after application launch.
-    print(pow(3.0,4.0))
-
-    print(pow(3.0,0.25))
 
     return true
   }

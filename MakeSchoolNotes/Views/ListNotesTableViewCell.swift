@@ -2,7 +2,7 @@
 //  ListNotesTableViewCell.swift
 //  MakeSchoolNotes
 //
-//  Created by Chris Orcutt on 10/18/15.
+//  Created by Cliff Weitzman on 6/15/16.
 //  Copyright © 2015 Make School. All rights reserved.
 //
 
