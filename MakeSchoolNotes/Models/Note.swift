@@ -2,7 +2,7 @@
 //  Note.swift
 //  MakeSchoolNotes
 //
-//  Created by Cliff Weitzman on 6/11/16.
+//  Created by Cliff Weitzman on 6/15/16.
 //  Copyright © 2016 MakeSchool. All rights reserved.
 //
 
